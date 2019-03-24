@@ -1,0 +1,4 @@
+com/online/farmer/model/FarmerModel.class
+com/online/farmer/model/StorageModel.class
+com/online/model/json/JsonHandler.class
+com/online/farmer/model/ProductModel.class

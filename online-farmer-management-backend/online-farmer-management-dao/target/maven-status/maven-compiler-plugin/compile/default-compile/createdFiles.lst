@@ -1,0 +1,5 @@
+com/online/dao/DatabaseConnectionManager.class
+com/online/dao/ConnectionInfo.class
+com/online/dao/CatalogType.class
+com/online/dao/UserCredentials.class
+com/online/dao/DatabaseConnectionListener.class
